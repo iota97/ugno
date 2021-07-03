@@ -11,6 +11,8 @@ Il gioco che quindi si va a creare prende forma e spunto dalle logiche del famos
 
 All’inizio della partita, l’utente giocatore può scegliere sia il numero di avversari contro cui giocare sia il numero di carte iniziali.
 
+<img align="right" width="300" height="150" src="https://i.vgy.me/ecdq67.png">
+
 Le tipologie di carta sono due: 
 - le *Carte Numero* 
 - le *Carte Effetto*, quali:
