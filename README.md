@@ -17,8 +17,8 @@ Le tipologie di carta sono due:
 - le *Carte Numero* 
 - le *Carte Effetto*, quali:
   - Carta *Salta Turno* 
-  - Carta *Pesca* 
-  - Carta *Random*.
+  - Carta *Pesca Due* 
+  - Carta *Pesca Quattro*.
 
 Lo scopo è, come nella versione originale del gioco, di finire tutte le carte nella propria mano.
 Quando la partita inizia, ci sarà già una carta casuale al centro del tavolo. 
